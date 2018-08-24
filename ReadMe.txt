@@ -15,11 +15,7 @@ a:hover { transition: all 200ms ease-in-out; }
     box-shadow: 0 2px 10px rgba(148,170,214,.2);
     margin-top: 150%;
 }
-.avatag-sm{
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    border: 2px solid white;
+
     background-color: Gray;
     padding: 3px;
 }
